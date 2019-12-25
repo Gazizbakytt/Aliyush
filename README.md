@@ -6,7 +6,7 @@
 
   
 
-def leastFrequent(arr, n) : 
+ def leastFrequent(arr, n) : 
 
   
 
@@ -64,8 +64,8 @@ def leastFrequent(arr, n) :
 
    
 
-arr = [1, 3, 2, 1, 2, 2, 3, 1] 
+ arr = [1, 3, 2, 1, 2, 2, 3, 1] 
 
-n = len(arr) 
+ n = len(arr) 
 
-print(leastFrequent(arr, n)) 
+ print(leastFrequent(arr, n)) 
