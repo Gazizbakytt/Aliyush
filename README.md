@@ -1,7 +1,6 @@
 # Aliyush
 
-# Python 3 program to find the least 
-# frequent element in an array. 
+# Python 3 program to find the least frequent element in an array. 
 
   
 
@@ -64,7 +63,6 @@ def leastFrequent(arr, n) :
       
 
    
-# Driver program 
 
 arr = [1, 3, 2, 1, 2, 2, 3, 1] 
 
